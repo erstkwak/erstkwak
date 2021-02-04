@@ -2,40 +2,28 @@
 
 ### 프론트엔드
 
-HTML
-
-CSS
-
-JavaScript
-- Vanilla JS
-- JQuery
+- HTML
+- CSS
+- JavaScript
+  - Vanilla JS, JQuery
+- Web API, Library, Framework
 
 ### 백엔드
 
-Java
-- Open JDK 15
-- Oracle JDK 1.7
-
-Java API
-- JDBC
-- Servlet
-- JSP
-
-SQL
+- Java
+  - OpenJDK 15, OracleJDK 1.7
 - SQL
-- PL/SQL
-
-DBMS
-- Oracle
+  - SQL, PL/SQL
+- DBMS
+  - Oracle
+- Web API, Library, Framework
+  - Servlet, JSP, Spring
 
 ### 도구
 
-Text Editor
-- Visual Studio Code
-
-IDE
-- Eclipse
-
-VCS
-- Git
-- GitHub
+- Text Editor
+  - Visual Studio Code
+- IDE
+  - Eclipse
+- VCS
+  - Git, GitHub
