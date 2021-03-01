@@ -5,19 +5,20 @@
 - HTML
 - CSS
 - JavaScript
-  - Vanilla JS, JQuery
-- Web API, Library, Framework
+  - Vanilla JS, ECMAScript, TypeScript
+- Library & Framework
+  - JQuery, Vue JS
 
 ### 백엔드
 
 - Java
-  - OpenJDK 15, OracleJDK 1.7
+  - OpenJDK 15, OracleJDK 8
 - SQL
   - SQL, PL/SQL
 - DBMS
-  - Oracle
-- Web API, Library, Framework
-  - Servlet, JSP, Spring
+  - MariaDB, MySQL, Oracle
+- Library & Framework
+  - ConnectionPool, lombok, Spring, MyBatis
 
 ### 도구
 
@@ -25,5 +26,7 @@
   - Visual Studio Code
 - IDE
   - Eclipse
+- Build
+  - Maven
 - VCS
   - Git, GitHub
